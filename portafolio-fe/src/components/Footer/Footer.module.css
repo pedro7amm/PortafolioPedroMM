@@ -1,0 +1,31 @@
+.footerContainer {
+    background-color: #042954;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    font-weight: bold;
+}
+
+.footerColumn {
+    flex: 1;
+    text-align: center;
+}
+
+.footerColumn img {
+    max-width: 100px;
+}
+
+.footerColumn ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+}
+
+.footerColumn li {
+    margin: 0.5rem 0;
+}

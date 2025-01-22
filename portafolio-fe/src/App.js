@@ -5,6 +5,7 @@ import Contact from "./components/Contact/Contact";
 import Experience from "./components/Experience/Experience";
 import Projects from "./components/Projects/Projects";
 import Home from "./components/Home/Home";
+import Footer from "./components/Footer/Footer";
 
 function App() {
     return (
@@ -21,6 +22,7 @@ function App() {
                         <Route path="/Contact" element={<Contact />} />
                     </Routes>
                 </div>
+                <Footer />
             </div>
         </BrowserRouter>
     );
