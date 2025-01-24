@@ -17,8 +17,8 @@
     width: 225px;
     height: 50px;
     display: flex;
-    justify-content: center; /* Centrado horizontal */
-    align-items: center;     /* Centrado vertical */
+    justify-content: center;
+    align-items: center;
 }
 
 .menu-bar a {
