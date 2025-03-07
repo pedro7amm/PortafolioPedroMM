@@ -1,0 +1,33 @@
+.menu-bar {
+    padding: 10px;
+}
+
+.menu-bar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-bar li {
+    margin: 0 15px;
+    border: 5px solid #EEE23D;
+    border-radius: 25px;
+    width: 225px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-bar a {
+    text-decoration: none;
+    color: #042954;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.menu-bar a:hover {
+    color: #EEE23D;
+}
