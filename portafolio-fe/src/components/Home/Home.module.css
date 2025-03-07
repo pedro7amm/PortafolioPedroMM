@@ -1,0 +1,18 @@
+.ProfilePicture {
+    border-radius: 150px;
+    border: 5px solid #042954;
+    height: 600px;
+}
+.picContainer{
+    width: 50%;
+}
+.HomeContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    gap: 10rem;
+}
+

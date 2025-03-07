@@ -1,6 +1,6 @@
 import { FaGithub, FaLinkedin, FaInstagram, FaEnvelope } from 'react-icons/fa';
 import styles from './Footer.module.css';
-import logoCircle from '../../assets/images/logo-circular.png'
+import logoCircle from '../../assets/images/logo-circular.png';
 
 const Footer = () => {
     return (
@@ -35,8 +35,8 @@ const Footer = () => {
                 <a href="https://www.instagram.com/pedro7amm/" target="_blank" rel="noopener noreferrer">
                     <FaInstagram/>
                 </a>
-                <p>&copy; Pedro7amm Dev.</p>
             </div>
+            <p>&copy; Pedro7amm Dev.</p>
         </div>
     );
 };
