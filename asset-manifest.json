@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/PortafolioPedroMM/static/css/main.59f7364d.css",
-    "main.js": "/PortafolioPedroMM/static/js/main.aa190787.js",
+    "main.css": "/PortafolioPedroMM/static/css/main.5c1c0c32.css",
+    "main.js": "/PortafolioPedroMM/static/js/main.3951c916.js",
     "static/js/453.8a4b6696.chunk.js": "/PortafolioPedroMM/static/js/453.8a4b6696.chunk.js",
+    "static/media/ProfilePic.jpg": "/PortafolioPedroMM/static/media/ProfilePic.a9197766e2d71d8fb0b8.jpg",
+    "static/media/gitLogo.jpg": "/PortafolioPedroMM/static/media/gitLogo.8322c082f223fd807d36.jpg",
+    "static/media/cssLogo.jpg": "/PortafolioPedroMM/static/media/cssLogo.c16622345d3b90bf9f23.jpg",
+    "static/media/logo-circular.png": "/PortafolioPedroMM/static/media/logo-circular.0768d44ea9f99608fb07.png",
+    "static/media/logoCisco.jpg": "/PortafolioPedroMM/static/media/logoCisco.9d9d5de3eaba54324f89.jpg",
+    "static/media/htmlLogo.jpg": "/PortafolioPedroMM/static/media/htmlLogo.b5c4803cb01260c8d2b5.jpg",
     "index.html": "/PortafolioPedroMM/index.html",
-    "main.59f7364d.css.map": "/PortafolioPedroMM/static/css/main.59f7364d.css.map",
-    "main.aa190787.js.map": "/PortafolioPedroMM/static/js/main.aa190787.js.map",
+    "main.5c1c0c32.css.map": "/PortafolioPedroMM/static/css/main.5c1c0c32.css.map",
+    "main.3951c916.js.map": "/PortafolioPedroMM/static/js/main.3951c916.js.map",
     "453.8a4b6696.chunk.js.map": "/PortafolioPedroMM/static/js/453.8a4b6696.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59f7364d.css",
-    "static/js/main.aa190787.js"
+    "static/css/main.5c1c0c32.css",
+    "static/js/main.3951c916.js"
   ]
 }
